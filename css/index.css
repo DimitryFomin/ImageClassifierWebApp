@@ -1,0 +1,19 @@
+.container {
+    margin: 20px; 
+}
+.container video {
+    z-index:0;
+}
+.overlay {
+    z-index:1;
+    background-color: rgba(0, 0, 0, 0.207);
+    position: absolute;
+}
+.top-right {
+    top: 8px;
+    right: 16px;
+  }
+.top-left {
+    top: 8px;
+    left: 16px;
+}
